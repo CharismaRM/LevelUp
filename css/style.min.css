@@ -1034,14 +1034,14 @@ body.ie ._ibg img {
   background: url("../img/bgmain.jpg") 0 0 repeat;
 }
 .intro__media::before {
-  content: "";
+/*   content: "";
   position: absolute;
   left: 0;
   top: 0;
   width: 100%;
   height: 100%;
   z-index: 5;
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(0, 0, 0, 0.5); */
 }
 
 .intro__media-vidio {
